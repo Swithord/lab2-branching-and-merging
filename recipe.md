@@ -5,6 +5,9 @@
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
 - 1/2 tsp ground cinnamon
+- 500 grams of Strawberry
+- 1 kg of beef broth
+- 100000000 milli grams of mayo
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
 - 1 tsp baking powder
