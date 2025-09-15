@@ -9,9 +9,13 @@
 - ...
 
 ## Instructions:
-1. Preheat the oven to 350°F (175°C).
-2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
-3. ...
+3. Stir in the baking powder, baking soda, and salt until evenly distributed.
+4. In a separate bowl, whisk the eggs, then add the milk and vegetable oil. Stir to combine.
+5. Pour the wet ingredients into the dry mixture and stir thoroughly until the batter is smooth.
+6. Carefully add the boiling water and mix until fully incorporated. The batter will be thin—this is expected.
+7. Pour the batter into the prepared baking pan lined with parchment paper (as Bob suggested).
+8. Bake for 30–35 minutes, or until a toothpick inserted into the center comes out clean.
+9. Allow the cake to cool in the pan for 10 minutes, then transfer to a wire rack to cool completely.
 
 ## Additional Directions by Bob:
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavour.
