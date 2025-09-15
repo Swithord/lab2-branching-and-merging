@@ -1,18 +1,28 @@
-# Delicious Chocolate Cake Recipe
+# Delicious Dubai Chocolate Matcha Labubu Cake Recipe
 
 ## Ingredients:
+- 1 Labubu
 - 2 cups all-purpose flour
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
 - 1/2 tsp ground cinnamon
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
+- 500 grams of kataifi
+- 1 cup pistachio cream
+- 1/4 cup tahini
 - ...
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
 3. ...
+
+## Additional Directions by Alden:
+1. In another bowl, mix together kataifi, pistachio cream, and tahini
+2. Separate half of the cake batter and mix in this concoction
+3. Layer both batters in cake pan however you'd like
+4. Put Labubu on top.
 
 ## Additional Directions by Alice:
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
